@@ -1,1 +1,1 @@
-I'm in staging area.
+I'm in working directory
